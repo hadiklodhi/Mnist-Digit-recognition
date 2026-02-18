@@ -75,7 +75,7 @@ The model achieves strong classification accuracy on the test dataset, demonstra
 ## 🚀 Technologies Used
 
 * Python
-* TensorFlow / Keras or PyTorch
+* TensorFlow / Keras 
 * Matplotlib (for visualization)
 
 
